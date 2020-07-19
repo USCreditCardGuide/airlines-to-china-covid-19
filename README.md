@@ -1,5 +1,5 @@
 # 疫情期间回国直飞航班汇总
-由于新冠疫情，中国启用了“五个一”政策大幅缩减了航班数量（后来逐渐根据“航权对等”原则略微增加了一些航线）。本项目用于总结飞往中国的直飞航班（因不允许转机，故新加坡、港澳台等国家或地区的航线没有被收录）。疫情期间回国艰难，请一定要先仔细阅读Colin1898一直更新维护的文章《[新冠疫情下，如何回国：中美直飞航班&转机方案总结](https://www.uscreditcardguide.com/xinguanyiqingzhixiaruhehuiguo/?utm_source=github&utm_medium=readme&utm_campaign=github_readme)》再购票；有问题欢迎来[美国信用卡指南论坛回国机票专区](https://forum.uscreditcardguide.com/c/travel/flights-home/8?utm_source=github&utm_medium=readme&utm_campaign=github_readme)讨论。
+由于新冠疫情，中国启用了“五个一”政策大幅缩减了航班数量（后来逐渐根据“航权对等”原则略微增加了一些航线）。本项目用于总结飞往中国的直飞航班。疫情期间回国艰难，请一定要先仔细阅读Colin1898一直更新维护的文章《[新冠疫情下，如何回国：中美直飞航班&转机方案总结](https://www.uscreditcardguide.com/xinguanyiqingzhixiaruhehuiguo/?utm_source=github&utm_medium=readme&utm_campaign=github_readme)》再购票；有问题欢迎来[美国信用卡指南论坛回国机票专区](https://forum.uscreditcardguide.com/c/travel/flights-home/8?utm_source=github&utm_medium=readme&utm_campaign=github_readme)讨论。
 
 本项目由[美国信用卡指南](https://www.uscreditcardguide.com/zh/?utm_source=github&utm_medium=readme&utm_campaign=github_readme)和[论坛](https://forum.uscreditcardguide.com/?utm_source=github&utm_medium=readme&utm_campaign=github_readme)里的朋友们共同维护。致谢：微博[塔库米先森Takumi](https://www.weibo.com/3900189730/IAAEN5SQC?type=comment#_rnd1589171852386)。
 
