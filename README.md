@@ -3,6 +3,14 @@
 
 本项目由[美国信用卡指南](https://www.uscreditcardguide.com/zh/?utm_source=github&utm_medium=readme&utm_campaign=github_readme)和[论坛](https://forum.uscreditcardguide.com/?utm_source=github&utm_medium=readme&utm_campaign=github_readme)里的朋友们共同维护。致谢：微博[塔库米先森Takumi](https://www.weibo.com/3900189730/IAAEN5SQC?type=comment#_rnd1589171852386)。
 
+此表为目前跟北美朋友们有关的中国仅存的国际航线。因不允许转机或转机政策不详，以下国家/地区没有被收录）：
+* 港澳台
+* 东南亚：新加坡，泰国，印度，越南，菲律宾，缅甸，老挝，文莱。
+* 南亚：尼泊尔，巴基斯坦，斯里兰卡，孟加拉。
+* 中东：伊朗。
+* 欧洲：波兰，俄罗斯。
+* 大洋洲：澳大利亚，新西兰。
+
 一些小说明：
 
 * 航班信息都在本项目的 .csv 文件中，点击 [airlines.csv](airlines.csv) 即可查看表格。
